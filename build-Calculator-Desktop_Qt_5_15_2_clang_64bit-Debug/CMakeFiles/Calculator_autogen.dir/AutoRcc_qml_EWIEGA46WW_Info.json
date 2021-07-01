@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/Calculator_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/terezakudlacova/cute/Calculator",
+	"CMAKE_SOURCE_DIR" : "/Users/terezakudlacova/cute/Calculator",
+	"INCLUDE_DIR" : "/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/Calculator_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/terezakudlacova/cute/Calculator/CalButton.qml",
+		"/Users/terezakudlacova/cute/Calculator/main.qml"
+	],
+	"LOCK_FILE" : "/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/Calculator_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/Users/terezakudlacova/Qt/5.15.2/clang_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/Calculator_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/terezakudlacova/cute/Calculator/qml.qrc",
+	"VERBOSITY" : 0
+}

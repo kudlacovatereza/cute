@@ -1,0 +1,12 @@
+# ninja log v5
+180	981	1625152854099166120	CMakeFiles/Calculator.dir/calculator.cpp.o	96d47c8115c71730
+94	169	1625152917047311614	Calculator	6bdbe2b8cfe5439c
+180	994	1625152854112404644	CMakeFiles/Calculator.dir/main.cpp.o	2dc3e9d2c2cb385a
+41	94	1625152916972652051	CMakeFiles/Calculator.dir/Calculator_autogen/EWIEGA46WW/qrc_qml.cpp.o	3440db3381ca7f69
+179	862	1625152853977546970	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	187b6cfcee7b9055
+1	41	1625152916919737829	Calculator_autogen/EWIEGA46WW/qrc_qml.cpp	ed8451a21ac7e72a
+2	179	1625152853305096000	Calculator_autogen/timestamp	590f944be6657b6d
+2	800	1625153018463674086	CMakeFiles/Calculator.dir/main.cpp.o	2dc3e9d2c2cb385a
+800	875	1625153018543431888	Calculator	6bdbe2b8cfe5439c
+2	808	1625153040014503008	CMakeFiles/Calculator.dir/main.cpp.o	2dc3e9d2c2cb385a
+808	882	1625153040093546996	Calculator	6bdbe2b8cfe5439c

@@ -1,0 +1,5 @@
+/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/Calculator.dir
+/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+/Users/terezakudlacova/cute/build-Calculator-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/Calculator_autogen.dir
