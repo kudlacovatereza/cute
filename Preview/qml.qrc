@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuLayout.qml</file>
+        <file>Detail.qml</file>
+        <file>Sidebar.qml</file>
+        <file>Sheet.qml</file>
+    </qresource>
+</RCC>
